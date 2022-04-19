@@ -25,10 +25,14 @@ function Home() {
 
     <div>
       <Head>
-        <title>Kalejaiye Enoch  |  Home</title>
         <link rel="icon" type="image/png" sizes="32x32" href="Untitled.svg" />
-        <meta name="description" content="Kalejaiye is the found and developer of enochkalejaiye.vercel.com, a beautiful portfolio for software developers, designers and programmers. He is a tech enthusiast who is passionate about sharing his technical knowledge to everyone who is interested in learning." />
-
+        <link rel="icon" type="image/png" sizes="32x32" href="Untitled.svg" />
+        <meta name="title" content="Kalejaiye Enoch  | Home" />
+        <meta name="description" content="Kalejaiye is the founder and developer of enochkalejaiye.vercel.com, a beautiful portfolio for software developers, designers and programmers. He is a tech enthusiast who is passionate about sharing his technical knowledge to everyone who is interested in learning"  />
+        <meta name="keywords" content="Kalejaiye, Enoch, Gbolahan, Devenoch, kalejaiye enoch gbolahan, commisoiner model, developer, great developers, portfolio, great portfolio, a,d,v,g,h,j,y,r,t,b,f, i need a website, dev, kalejaiyenoch" />
+        <meta name="robots" content="index, follow"  />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="language" content="English" />
       </Head>
 
       <div>
