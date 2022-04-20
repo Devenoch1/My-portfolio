@@ -29,6 +29,7 @@ function Home() {
         <meta name="title" content="Kalejaiye Enoch  | Home" />
         <meta name="description" content="Kalejaiye is the founder and developer of enochkalejaiye.vercel.com, a beautiful portfolio for software developers, designers and programmers. He is a tech enthusiast who is passionate about sharing his technical knowledge to everyone who is interested in learning"  />
         <meta name="keywords" content="Kalejaiye, Enoch, Gbolahan, Devenoch, kalejaiye enoch gbolahan, commisoiner model, developer, great developers, portfolio, great portfolio, a,d,v,g,h,j,y,r,t,b,f, i need a website, dev, kalejaiyenoch" />
+        <meta name="google-site-verification" content="I9L6pqKrm1YyxzIMXBXpBRGKeR5lrLxZcQCx7Zcy7VA" />
       </Head>
 
       <div>
