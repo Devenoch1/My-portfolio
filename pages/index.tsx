@@ -26,7 +26,7 @@ function Home() {
     <div>
       <Head>
         <link rel="icon" type="image/png" sizes="32x32" href="Untitled.svg" />
-        <meta name="title" content="Kalejaiye Enoch  | Home" />
+        <meta name="title" content="Kalejaiye Enoch : Web developer" />
         <meta name="description" content="Kalejaiye is the founder and developer of enochkalejaiye.vercel.com, a beautiful portfolio for software developers, designers and programmers. He is a tech enthusiast who is passionate about sharing his technical knowledge to everyone who is interested in learning"  />
         <meta name="google-site-verification" content="I9L6pqKrm1YyxzIMXBXpBRGKeR5lrLxZcQCx7Zcy7VA" />
       </Head>
